@@ -12,7 +12,7 @@ Hi there! My name is Parker Koch, and I'm a PhD Candidate in Computer Engineerin
 
 My work
 ======
-I am currently spending time investigating why some neural networks exhibit "texture bias," as coined by [Geirhos et al.](https://arxiv.org/abs/1811.12231), and whether we can use techniques from adversarial learning to address the issue. The intersection of deep learning techniques and bilevel optimization (such as with GANs) is, in my opinion, a far deeper and richer space of work than many in the CV community give it credit for. Its popularity within the fairness in AI community provides excellent further reason for studying how to improve it.
+I am currently spending time investigating why some neural networks exhibit "texture bias," as coined by [Geirhos, et al.](https://arxiv.org/abs/1811.12231), and whether we can use techniques from adversarial learning to address the issue. The intersection of deep learning techniques and bilevel optimization (such as with GANs) is, in my opinion, a far deeper and richer space of work than many in the CV community give it credit for. Its popularity within the fairness in AI community provides excellent further reason for studying how to improve it.
 
 My teaching interests lie in Masters-level mathematics for signals and ML engineering students (linear algebra, matrix decomposition, filtering and estimation, etc.), as well as the fundamentals of machine learning methods both historical and modern. I have taught EECS 504: Foundations of Computer Vision at UM twice as a graduate student instructor and once as the primary instructor.
 
