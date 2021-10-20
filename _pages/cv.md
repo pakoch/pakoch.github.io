@@ -49,3 +49,8 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Fellowships & Awards
+======
+* Rackham Merit Fellowship
+  * 2015-2020
