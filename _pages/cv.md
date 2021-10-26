@@ -30,7 +30,7 @@ Work experience
   
 * Fall 2014-Spring 2015: Undergraduate Research Assistant
   * University of Iowa
-  * Investigated utility of off-the-shelf ML methods for categorization of severity of idiopathic intercranial hypertension
+  * Investigated utility of off-the-shelf ML methods for categorization of severity of idiopathic intracranial hypertension
   * Supervisor: Dr. Mona Garvin
 
 * Fall 2012-Summer 2013: Undergraduate Research Assistant
